@@ -58,3 +58,4 @@ El archivo binario se generará dentro de la carpeta `target/` con el nombre `ec
 ## 📌 Control de Versiones y Gestión
 - **Flujo de Trabajo:** Uso de ramas locales de características (`feature/`) para el aislamiento de código.
 - **Versionamiento Semántico:** Hito formal de entrega etiquetado bajo el estándar Git Tags con la versión oficial `v1.0.0`.
+"Proyecto final completado con éxito para la evaluación del curso."
